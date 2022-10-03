@@ -1,0 +1,4 @@
+#Mon Oct 03 08:15:40 PST 2022
+base.0=/Users/collabera/Documents/exam/to_do_list/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
