@@ -22,3 +22,6 @@ https://user-images.githubusercontent.com/35504352/193488595-70466875-2961-4c07-
 
 # Apk Download Link
 - https://drive.google.com/file/d/1n9a9BZMpuJFOwx77WyN5RI8Zq-mi_oez/view?usp=sharing
+
+# Sdk version
+- ">=2.16.1 <3.0.0"
